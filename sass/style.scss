@@ -9,7 +9,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-$size-header: 23em;
+$size-header: 3em;
 
 /* Basic */
 
@@ -983,7 +983,7 @@ $size-header: 23em;
 
 	#one {
 		&:before {
-			background-image: url('../images/banner.jpg');
+			background-image: url($background);
 			background-position: top right;
 			background-repeat: no-repeat;
 			background-size: cover;
