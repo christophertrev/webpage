@@ -754,7 +754,7 @@ input[type="button"],
 
 /* One */
 #one:before {
-  background-image: url("../images/darksunset.jpg");
+  background-image: url("../images/sunset.jpg");
   background-position: top right;
   background-repeat: no-repeat;
   background-size: cover;
