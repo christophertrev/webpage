@@ -11,11 +11,11 @@ window.onload=function(){
   function displayfeed(result){
     if (!result.error){
       var thefeeds=result.feed.entries;
-      console.log(thefeeds)
+      // console.log(thefeeds)
       for (var i=0; i<thefeeds.length; i++)
         rssoutput+="<header><a href='" + thefeeds[i].link + "'><h4>" + thefeeds[i].title + "</h4></a></header><p>"+ thefeeds[i].contentSnippet+"</p>";
         // rssoutput+="";
-        console.log('rssoutput', rssoutput)
+        // console.log('rssoutput', rssoutput)
         feedcontainer.innerHTML = rssoutput;
     }
     else{
