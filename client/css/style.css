@@ -360,6 +360,8 @@ input[type="radio"] + label:before {
   .image img {
     border-radius: 5px;
     display: block; }
+  .image img:hover {
+    opacity: 0.5; }
   .image.left {
     float: left;
     margin: 0 2.5em 2em 0;
@@ -690,6 +692,8 @@ input[type="button"],
   #header a {
     color: #fad8cc; }
     #header a:hover {
+      color: #ffffff !important; }
+    #header a h4:hover {
       color: #ffffff !important; }
   #header > header {
     padding: 3em; }

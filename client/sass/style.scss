@@ -429,6 +429,10 @@ $size-header: 3em;
 			border-radius: $size-border-radius;
 			display: block;
 		}
+		img:hover{
+			// border-radius: 1000px;
+			opacity: .5
+		}
 		
 		&.left {
 			float: left;
@@ -875,6 +879,10 @@ $size-header: 3em;
 			
 			&:hover {
 				color: $color-header-fg-bold !important;
+			}
+			h4:hover {
+				color: $color-header-fg-bold !important;
+				
 			}
 		}
 
