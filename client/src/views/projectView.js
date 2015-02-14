@@ -7,13 +7,19 @@ var ProjectView = Backbone.View.extend({
   //   </div>
   // </article>
 
+  /*
+  picturesSrc
+  title
+  description
+  */
+
   tagName: 'article',
   initialize: function (){
 
   },
 
   render: function (){
-    return this.$el.html("hello there!")
+    return this.$el.append('<article> hellooooooo</article>')
   }
 
 })

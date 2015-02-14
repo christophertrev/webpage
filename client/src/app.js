@@ -4,7 +4,7 @@ $(function(){
   // messages.fetchMessages();
   // view = new MessagesView({el: $('.chatWindow'), collection: messages})
   // view.render();
-  view = new ProjectView({el:$('.test')})
+  view = new ProjectView({el:$('.features')})
   view.render();
 
 
