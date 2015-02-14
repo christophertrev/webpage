@@ -3,7 +3,7 @@ $(function(){
   var projects = [
   {
     title: 'Stroll Health - Patient Portal',
-    imgSRC: 'images/pic01.jpg',
+    imgSRC: 'images/webpaget.png',
     description: 'A web application that allows users to brain storm anonymously',
     link: '#'
   },
