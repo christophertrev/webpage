@@ -1,0 +1,17 @@
+{
+  "name": "webpage",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "www.christophertrev.com",
+  "authors": [
+    "Christopher Treviño <christophertrev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
