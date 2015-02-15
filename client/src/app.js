@@ -4,7 +4,7 @@ $(function(){
   {
     title: 'Stroll Health - Patient Portal',
     imgSRC: 'images/webpaget.png',
-    description: 'A web application that allows users to brain storm anonymously',
+    description: 'A web & mobile  app to allow patients for search for most affordable location of doctor prescribed procedure. Made in collaboration with Stroll Health',
     link: '#'
   },
   {
