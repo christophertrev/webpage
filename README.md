@@ -1,5 +1,3 @@
 # webpage
 This is the code behind my personal webpage
-
-
-his
+Uses back bone for posting new projects
